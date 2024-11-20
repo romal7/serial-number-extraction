@@ -5,7 +5,3 @@ ultralytics
 numpy
 torch
 
-
-
-method: POST
-key: file
