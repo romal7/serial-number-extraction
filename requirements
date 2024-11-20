@@ -1,0 +1,11 @@
+Flask
+opencv-python-headless
+easyocr
+ultralytics
+numpy
+torch
+
+
+
+method: POST
+key: file
